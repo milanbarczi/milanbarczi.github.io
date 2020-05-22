@@ -1,0 +1,119 @@
+body {
+	background: sa;
+	text-align: justify;
+	font-size: 1.25em;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 50px;
+ }
+
+ .szineshatter{
+ 	background-color: #e8d64f;
+ 	text-align: center;
+ 	padding-top: 25px;
+	padding-bottom: 25px;
+  	
+ }
+	
+.kepekhatter{
+ 	background-color: #e8d64f;
+ 	text-align: center;
+ 	padding-top: 25px;
+	padding-bottom: 25px;
+	position: -webkit-sticky;
+  	position: sticky;
+  	top: 0;
+ }
+
+
+.tobbi{
+	
+	padding-top: 11px;
+	padding-bottom: 11px;
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+.adott{
+	background-color: #a38c26;
+	
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: black;
+ 
+}
+
+a:active {
+  text-decoration: underline;
+  color: black;
+}
+
+.viz {
+	width: 250px;
+	height: 500px;
+	float: right;
+	padding: 20px;
+}
+
+.torony {
+	width: 250px;
+	float: left;
+	padding: 20px;
+
+}
+
+.szoveg {
+  width: 950px;
+  border: 6px solid black;
+  padding: 40px;
+  position: relative;
+  left: 200px;
+  text-indent: 50px;
+  letter-spacing: 1px;
+}
+
+.kepek{
+	margin: 10px 50px;
+}
+
+.kepek img{
+	padding-left: 73px;
+	padding-right: 73px;
+	padding-bottom: 70px;
+	padding-top: 40px;
+}
+
+.elerhetoseg{
+	position: relative;
+	padding-left: 550px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
