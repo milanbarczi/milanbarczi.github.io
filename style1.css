@@ -85,8 +85,7 @@ a:active {
   width: 950px;
   border: 6px solid black;
   padding: 40px;
-  position: relative;
-  left: 200px;
+  margin: auto;
   text-indent: 50px;
   letter-spacing: 1px;
 }
@@ -103,8 +102,7 @@ a:active {
 }
 
 .elerhetoseg{
-	position: relative;
-	padding-left: 550px;
+	margin: auto;
 	font-weight: bold;
 }
 
